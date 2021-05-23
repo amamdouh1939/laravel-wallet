@@ -1,5 +1,5 @@
 {
-    "name": "depsimon/laravel-wallet",
+    "name": "amamdouh1939/laravel-wallet",
     "description": "Easy to use virtual wallet for your app",
     "keywords": [
         "depsimon",
@@ -9,13 +9,12 @@
         "credits",
         "wallet"
     ],
-    "homepage": "https://github.com/depsimon/laravel-wallet",
+    "homepage": "https://github.com/amamdouh1939/laravel-wallet",
     "license": "MIT",
     "authors": [
         {
-            "name": "Simon Depelchin",
-            "email": "simon@webartisan.be",
-            "homepage": "https://webartisan.be",
+            "name": "Ahmed Mamdouh",
+            "email": "ahmad.mohammed.1939@gmail.com",
             "role": "Developer"
         }
     ],
@@ -23,6 +22,12 @@
         "php": "^7.0",
         "illuminate/database": "8.x-dev"
     },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/amamdouh1939/laravel-wallet"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Depsimon\\Wallet\\": "src"
