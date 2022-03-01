@@ -19,8 +19,7 @@
         }
     ],
     "require": {
-        "php": "^7.0",
-        "illuminate/database": "8.42.x"
+        "php": "^7.0"
     },
     "repositories": [
         {
